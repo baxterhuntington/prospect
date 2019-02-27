@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prospect
+title: Onboarding
 ---
 
 ## What is Prospect?
